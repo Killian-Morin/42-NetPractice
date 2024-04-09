@@ -1,8 +1,7 @@
 
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
-<br/>
+<!-- PROJECT SUMMARY -->
 <div align="center">
 
 <h3 align="center">NetPractice</h3>
@@ -10,10 +9,9 @@
   <p align="center">
     Summary:
     This project is a general practical exercise to let you discover networking.
-    <br/>
+    <br>
   </p>
 </div>
-
 
 <!-- TABLE OF CONTENTS -->
 
